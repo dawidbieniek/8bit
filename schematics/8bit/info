@@ -1,0 +1,155 @@
+{
+  "uuid": "70f66dd3fdd9984d9f51f973f1a25496",
+  "path": "Offline/8bit",
+  "name": "8bit",
+  "content": "",
+  "created_at": "2023-03-16 19:50:46",
+  "updated_at": "2023-03-16 19:50:46",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4cc4352336e1fcd4a9fc68e39bd874e2",
+      "title": "PC",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f07ef748b7304788b84a527337fbc996": 4,
+        "05361a619b3943b79b308f879f1b5177": 1,
+        "c8d1ac7ffc3c4e03883307977252144c": 1,
+        "1f3ea9fc16b341e2abde3da8a598fc6b": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "74LS153",
+          1,
+          "PDIP-16_L19.3-W6.4-P2.54-LS7.9-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1547278",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS153N",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "5274406e19354d008c5fde605f0c6ecf",
+            "uuid": "05361a619b3943b79b308f879f1b5177"
+          }
+        ],
+        [
+          "74LS04",
+          1,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C513511",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XL74LS04",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e69ddeebe4e34357ab0ade32765aa5fb",
+            "uuid": "c8d1ac7ffc3c4e03883307977252144c"
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL",
+          "U7,U8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "74LS245WMX",
+            "BOM_Supplier Part": "C6034",
+            "puuid": "5356272cc5af44b39d15fd2cd0ee845c",
+            "uuid": "1f3ea9fc16b341e2abde3da8a598fc6b"
+          }
+        ]
+      ],
+      "updateTime": 1678992646,
+      "createTime": 1678992646,
+      "histories": [],
+      "created_at": "2023-03-16 19:50:46",
+      "updated_at": "2023-03-16 19:50:46"
+    },
+    {
+      "uuid": "e01dad962db273c3f1b35a7c423c56e6",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "74LS153",
+          1,
+          "PDIP-16_L19.3-W6.4-P2.54-LS7.9-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1547278",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS153N",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "5274406e19354d008c5fde605f0c6ecf",
+            "uuid": "05361a619b3943b79b308f879f1b5177"
+          }
+        ],
+        [
+          "74LS04",
+          1,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C513511",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XL74LS04",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e69ddeebe4e34357ab0ade32765aa5fb",
+            "uuid": "c8d1ac7ffc3c4e03883307977252144c"
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL",
+          "U7,U8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "74LS245WMX",
+            "BOM_Supplier Part": "C6034",
+            "puuid": "5356272cc5af44b39d15fd2cd0ee845c",
+            "uuid": "1f3ea9fc16b341e2abde3da8a598fc6b"
+          }
+        ]
+      ],
+      "updateTime": 1678992646,
+      "createTime": 1678992646,
+      "histories": [],
+      "created_at": "2023-03-16 19:50:46",
+      "updated_at": "2023-03-16 19:50:46"
+    }
+  ],
+  "sort": [],
+  "title": "8bit",
+  "foldername": "8bit",
+  "schfilename": "8bit.json",
+  "schfilemtime": 1678992646489
+}
