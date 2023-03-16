@@ -4,7 +4,7 @@
   "name": "8bit",
   "content": "",
   "created_at": "2023-03-16 19:50:46",
-  "updated_at": "2023-03-16 19:50:46",
+  "updated_at": "2023-03-17 17:49:22",
   "stick": "",
   "documents": [
     {
@@ -71,22 +71,160 @@
             "puuid": "5356272cc5af44b39d15fd2cd0ee845c",
             "uuid": "1f3ea9fc16b341e2abde3da8a598fc6b"
           }
+        ],
+        [
+          "74FST3390",
+          4,
+          "",
+          "U9,U12,U13,U15",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "2a505c32e83b47638c33a4d9af3273c4"
+          }
+        ],
+        [
+          "74LS04",
+          1,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C513511",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XL74LS04",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e69ddeebe4e34357ab0ade32765aa5fb",
+            "uuid": "c8d1ac7ffc3c4e03883307977252144c"
+          }
+        ],
+        [
+          "74LS540",
+          2,
+          "SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL",
+          "U11,U14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1548464",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS540DW",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "969a578b2869473fa8ef6283c1b3801c",
+            "uuid": "dc58e577201d44a6b113a3686fd8edd0"
+          }
+        ],
+        [
+          "74LS83",
+          2,
+          "DIP16",
+          "U16,U17",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "36387ea742a04602bc24d100c866268f",
+            "uuid": "3f57b71ee6d240bfbc76c2d5fc701291"
+          }
+        ],
+        [
+          "74LS08",
+          2,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U18,U19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C521140",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XL74LS08",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e69ddeebe4e34357ab0ade32765aa5fb",
+            "uuid": "54f1e1de13a94ccdb734b4f5bba5f1ca"
+          }
+        ],
+        [
+          "74LS32",
+          2,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U20,U21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2869302",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS32D",
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "4d3a7dfe065b42058fcb74c39a4fd10e"
+          }
+        ],
+        [
+          "74LS86",
+          2,
+          "DIP-14_L20.0-W7.6-P2.54-LS7.6-BL",
+          "U22,U23",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C556290",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XD74LS86",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "dea0bb4b355444a8a0eca19a5486a7f8",
+            "uuid": "afa597d0d8384bf2a5492c4ec112575d"
+          }
+        ],
+        [
+          "74LS153",
+          4,
+          "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "U24,U25,U26,U27",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1547147",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS153D",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "5cafa9ae5a9e4b2ab529c9f08b47eb94",
+            "uuid": "0967b51d868145789e81f9903e35e984"
+          }
+        ],
+        [
+          "74LS245",
+          1,
+          "SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL",
+          "U29",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "74LS245WMX",
+            "BOM_Supplier Part": "C6034",
+            "puuid": "5356272cc5af44b39d15fd2cd0ee845c",
+            "uuid": "1f3ea9fc16b341e2abde3da8a598fc6b"
+          }
         ]
       ],
-      "updateTime": 1678992646,
+      "updateTime": 1679004206,
       "createTime": 1678992646,
       "histories": [],
       "created_at": "2023-03-16 19:50:46",
-      "updated_at": "2023-03-16 19:50:46"
+      "updated_at": "2023-03-16 23:03:26"
     },
     {
-      "uuid": "e01dad962db273c3f1b35a7c423c56e6",
-      "title": "Sheet_1",
+      "uuid": "f507afecaeccc6225d3aadb1d75839c1",
+      "title": "ALU",
       "description": "",
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "components": {},
+      "components": {
+        "2a505c32e83b47638c33a4d9af3273c4": 4,
+        "c8d1ac7ffc3c4e03883307977252144c": 1,
+        "dc58e577201d44a6b113a3686fd8edd0": 2,
+        "3f57b71ee6d240bfbc76c2d5fc701291": 2,
+        "54f1e1de13a94ccdb734b4f5bba5f1ca": 2,
+        "4d3a7dfe065b42058fcb74c39a4fd10e": 2,
+        "afa597d0d8384bf2a5492c4ec112575d": 2,
+        "0967b51d868145789e81f9903e35e984": 4,
+        "1f3ea9fc16b341e2abde3da8a598fc6b": 1
+      },
       "BOM": [
         [
           "Value",
@@ -138,18 +276,149 @@
             "puuid": "5356272cc5af44b39d15fd2cd0ee845c",
             "uuid": "1f3ea9fc16b341e2abde3da8a598fc6b"
           }
+        ],
+        [
+          "74FST3390",
+          4,
+          "",
+          "U9,U12,U13,U15",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "2a505c32e83b47638c33a4d9af3273c4"
+          }
+        ],
+        [
+          "74LS04",
+          1,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C513511",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XL74LS04",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e69ddeebe4e34357ab0ade32765aa5fb",
+            "uuid": "c8d1ac7ffc3c4e03883307977252144c"
+          }
+        ],
+        [
+          "74LS540",
+          2,
+          "SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL",
+          "U11,U14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1548464",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS540DW",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "969a578b2869473fa8ef6283c1b3801c",
+            "uuid": "dc58e577201d44a6b113a3686fd8edd0"
+          }
+        ],
+        [
+          "74LS83",
+          2,
+          "DIP16",
+          "U16,U17",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "36387ea742a04602bc24d100c866268f",
+            "uuid": "3f57b71ee6d240bfbc76c2d5fc701291"
+          }
+        ],
+        [
+          "74LS08",
+          2,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U18,U19",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C521140",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XL74LS08",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e69ddeebe4e34357ab0ade32765aa5fb",
+            "uuid": "54f1e1de13a94ccdb734b4f5bba5f1ca"
+          }
+        ],
+        [
+          "74LS32",
+          2,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U20,U21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2869302",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS32D",
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "4d3a7dfe065b42058fcb74c39a4fd10e"
+          }
+        ],
+        [
+          "74LS86",
+          2,
+          "DIP-14_L20.0-W7.6-P2.54-LS7.6-BL",
+          "U22,U23",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C556290",
+            "BOM_Manufacturer": "XINLUDA(信路达)",
+            "BOM_Manufacturer Part": "XD74LS86",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "dea0bb4b355444a8a0eca19a5486a7f8",
+            "uuid": "afa597d0d8384bf2a5492c4ec112575d"
+          }
+        ],
+        [
+          "74LS153",
+          4,
+          "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "U24,U25,U26,U27",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1547147",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS153D",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "5cafa9ae5a9e4b2ab529c9f08b47eb94",
+            "uuid": "0967b51d868145789e81f9903e35e984"
+          }
+        ],
+        [
+          "74LS245",
+          1,
+          "SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL",
+          "U29",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "74LS245WMX",
+            "BOM_Supplier Part": "C6034",
+            "puuid": "5356272cc5af44b39d15fd2cd0ee845c",
+            "uuid": "1f3ea9fc16b341e2abde3da8a598fc6b"
+          }
         ]
       ],
-      "updateTime": 1678992646,
-      "createTime": 1678992646,
+      "updateTime": 1679071762,
+      "createTime": 1678995378,
       "histories": [],
-      "created_at": "2023-03-16 19:50:46",
-      "updated_at": "2023-03-16 19:50:46"
+      "created_at": "2023-03-16 20:36:18",
+      "updated_at": "2023-03-17 17:49:22"
     }
   ],
-  "sort": [],
+  "sort": [
+    "4cc4352336e1fcd4a9fc68e39bd874e2",
+    "f507afecaeccc6225d3aadb1d75839c1"
+  ],
   "title": "8bit",
   "foldername": "8bit",
   "schfilename": "8bit.json",
-  "schfilemtime": 1678992646489
+  "schfilemtime": 1679071762625
 }
