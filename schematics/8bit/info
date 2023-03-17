@@ -4,7 +4,7 @@
   "name": "8bit",
   "content": "",
   "created_at": "2023-03-16 19:50:46",
-  "updated_at": "2023-03-17 17:49:22",
+  "updated_at": "2023-03-17 18:03:24",
   "stick": "",
   "documents": [
     {
@@ -219,11 +219,12 @@
         "c8d1ac7ffc3c4e03883307977252144c": 1,
         "dc58e577201d44a6b113a3686fd8edd0": 2,
         "3f57b71ee6d240bfbc76c2d5fc701291": 2,
-        "54f1e1de13a94ccdb734b4f5bba5f1ca": 2,
+        "54f1e1de13a94ccdb734b4f5bba5f1ca": 3,
         "4d3a7dfe065b42058fcb74c39a4fd10e": 2,
         "afa597d0d8384bf2a5492c4ec112575d": 2,
         "0967b51d868145789e81f9903e35e984": 4,
-        "1f3ea9fc16b341e2abde3da8a598fc6b": 1
+        "1f3ea9fc16b341e2abde3da8a598fc6b": 1,
+        "433528161efe47f5a83bbf9f312877d5": 1
       },
       "BOM": [
         [
@@ -334,9 +335,9 @@
         ],
         [
           "74LS08",
-          2,
+          3,
           "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
-          "U18,U19",
+          "U18,U19,U30",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Supplier Part": "C521140",
@@ -392,6 +393,20 @@
           }
         ],
         [
+          "74LS02",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U28",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2878666",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS02D",
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "433528161efe47f5a83bbf9f312877d5"
+          }
+        ],
+        [
           "74LS245",
           1,
           "SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL",
@@ -406,11 +421,11 @@
           }
         ]
       ],
-      "updateTime": 1679071762,
+      "updateTime": 1679072604,
       "createTime": 1678995378,
       "histories": [],
       "created_at": "2023-03-16 20:36:18",
-      "updated_at": "2023-03-17 17:49:22"
+      "updated_at": "2023-03-17 18:03:24"
     }
   ],
   "sort": [
@@ -420,5 +435,5 @@
   "title": "8bit",
   "foldername": "8bit",
   "schfilename": "8bit.json",
-  "schfilemtime": 1679071762625
+  "schfilemtime": 1679072604603
 }
