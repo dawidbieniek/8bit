@@ -11,4 +11,5 @@ SN74HCT02 	nor			2,70	https://sklep.avt.pl/uklad-scalony-74hct02.html
 SN74HC153NE4	4to1 mux		2,70	https://www.mouser.pl/ProductDetail/Texas-Instruments/SN74HC153NE4?qs=sGAEpiMZZMswyCOIqqEme3PMhI7RHZZhOZzrhNiZ%252Biw%3D
 CD74HC293 	adder			4,00	https://www.mouser.pl/ProductDetail/Texas-Instruments/CD74HCT283E?qs=sGAEpiMZZMuyBeSSR239ITE45WmZFVpj8zBCelFrD%252Bs%3D
 SB74HCT257	2to1mux			1,60	https://sklep.avt.pl/uklad-scalony-74hct257.html
-128kx8 ram		14,70	https://www.mouser.pl/ProductDetail/Alliance-Memory/AS6C1008-55PCN?qs=sGAEpiMZZMtm4RFapVkzrPhqi0UYYSDeWJAoJpRSb2s%3D
+AS6C1008 	ram			17,70	https://www.mouser.pl/ProductDetail/Alliance-Memory/AS6C1008-55PCN?qs=sGAEpiMZZMtm4RFapVkzrPhqi0UYYSDeWJAoJpRSb2s%3D
+AT28C64		eeprom			15,00	https://allegrolokalnie.pl/oferta/pamiec-atmel-at28c6415pc-dip28-eeprom-g7g?utm_feed=862ee648-9259-11ed-a1eb-0242ac120002
