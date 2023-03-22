@@ -1,15 +1,16 @@
-name		function		price	link
-SN74LS161AN	counter 		4,00	https://www.mouser.pl/ProductDetail/Texas-Instruments/SN74LS161AN?qs=pt%2FIv5r0EPdAOdsihx36Qg%3D%3D&mgh=1&vip=1
-SN74LS241	buffer 			0,50	https://sklep.avt.pl/uklad-scalony-74ls241.html
-SN74HCT04	inverter		1,50	https://sklep.avt.pl/uklad-scalony-74hct04.html
-SN74LS242	transciever(NOT)	0,50	https://sklep.avt.pl/uklad-scalony-74ls242.html
-SN74LS86	xor			2,80	https://sklep.avt.pl/uklad-scalony-74hc86-dip14.html
-SN74HC574 	dff 			3,00	https://sklep.avt.pl/uklad-scalony-74hct574.html
-SN74LS32	or			3,30	https://sklep.avt.pl/uklad-scalony-74ls32.html
-SN74HC08NE4	and			2,70	https://www.mouser.pl/ProductDetail/Texas-Instruments/SN74HC08NE4?qs=sGAEpiMZZMuyBeSSR239IW7xIH5N0hSKpF4fJnvboCQ%3D
-SN74HCT02 	nor			2,70	https://sklep.avt.pl/uklad-scalony-74hct02.html
-SN74HC153NE4	4to1 mux		2,70	https://www.mouser.pl/ProductDetail/Texas-Instruments/SN74HC153NE4?qs=sGAEpiMZZMswyCOIqqEme3PMhI7RHZZhOZzrhNiZ%252Biw%3D
-CD74HC293 	adder			4,00	https://www.mouser.pl/ProductDetail/Texas-Instruments/CD74HCT283E?qs=sGAEpiMZZMuyBeSSR239ITE45WmZFVpj8zBCelFrD%252Bs%3D
-SB74HCT257	2to1mux			1,60	https://sklep.avt.pl/uklad-scalony-74hct257.html
-AS6C1008 	ram			17,70	https://www.mouser.pl/ProductDetail/Alliance-Memory/AS6C1008-55PCN?qs=sGAEpiMZZMtm4RFapVkzrPhqi0UYYSDeWJAoJpRSb2s%3D
-AT28C64		eeprom			15,00	https://allegrolokalnie.pl/oferta/pamiec-atmel-at28c6415pc-dip28-eeprom-g7g?utm_feed=862ee648-9259-11ed-a1eb-0242ac120002
+name		function		price	count	link
+SN74LS161	presettable counter 	6,00	4	https://slawmir.com.pl/ukl-scalony-74ls161-p-3569598.html
+SN74LS241	buffer 			0,50	5	https://sklep.avt.pl/uklad-scalony-74ls241.html
+SN74HCT04	inverter		1,50	0	https://sklep.avt.pl/uklad-scalony-74hct04.html
+SN74LS242	transciever(NOT)	0,50	7	https://sklep.avt.pl/uklad-scalony-74ls242.html
+SN74LS86	xor			2,80	2	https://sklep.avt.pl/uklad-scalony-74hc86-dip14.html
+SN74HC574 	dff 			3,00	7	https://sklep.avt.pl/uklad-scalony-74hct574.html
+SN74LS32	or			3,30	4	https://sklep.avt.pl/uklad-scalony-74ls32.html
+SN74HC08	and			2,70	6	https://slawmir.com.pl/ukl-scalony-74hc08-dip14-p-43152.html
+SN74HCT02 	nor			2,70	1	https://sklep.avt.pl/uklad-scalony-74hct02.html
+SN74HC153	4to1 mux		4,30	5	https://slawmir.com.pl/ukl-scalony-74hc153-dip16-p-1064708.html
+CD74HC283 	adder			6,00	2	https://slawmir.com.pl/ukl-scalony-cd74hc283e-p-3771400.html
+SB74HCT257	2to1mux			1,60	4	https://sklep.avt.pl/uklad-scalony-74hct257.html
+AS6C1008 	ram			28,00	1	https://slawmir.com.pl/ukl-scalony-as6c1008-55pcn-p-3770117.html
+AT28C64		eeprom			15,00	3	https://allegrolokalnie.pl/oferta/pamiec-atmel-at28c6415pc-dip28-eeprom-g7g?utm_feed=862ee648-9259-11ed-a1eb-0242ac120002
+SN74LS293	counter			1,50	1	https://sklep.avt.pl/uklad-scalony-74ls293.html
