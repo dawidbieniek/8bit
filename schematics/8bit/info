@@ -4,7 +4,7 @@
   "name": "8bit",
   "content": "",
   "created_at": "2023-03-16 19:50:46",
-  "updated_at": "2023-03-22 12:10:39",
+  "updated_at": "2023-03-28 15:35:28",
   "stick": "",
   "documents": [
     {
@@ -2013,6 +2013,486 @@
       "histories": [],
       "created_at": "2023-03-21 19:31:30",
       "updated_at": "2023-03-22 12:10:39"
+    },
+    {
+      "uuid": "2a354572eec4a9dfd42513a9aca07456",
+      "title": "CLK&CLR",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "501be7a0052341dbbe1fef4bc6d02ca4": 1,
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "fcaba4851eda4ca19d4326a668633a30": 1,
+        "a7a0e276dadd4f8097422d2afc2e1b9c": 1,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "SN74LS161",
+          4,
+          "PDIP-16_L19.3-W6.4-P2.54-LS7.9-BL",
+          "U1,U2,U3,U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1547960",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN74LS161AN",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "5274406e19354d008c5fde605f0c6ecf",
+            "uuid": "f07ef748b7304788b84a527337fbc996"
+          }
+        ],
+        [
+          "SN74HC153",
+          1,
+          "",
+          "U5",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "556756ff4db6481bb0ae5c6a13ea408d"
+          }
+        ],
+        [
+          "SN74LS242",
+          1,
+          "",
+          "U6",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "094868f94589402b91f87f09d4da4d08"
+          }
+        ],
+        [
+          "SN74LS241",
+          2,
+          "",
+          "U7,U8",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "b5d7497cb87d492f8539fcb39495741f"
+          }
+        ],
+        [
+          "SN74LS242",
+          1,
+          "",
+          "U9",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "094868f94589402b91f87f09d4da4d08"
+          }
+        ],
+        [
+          "SN74HC08",
+          1,
+          "",
+          "U10",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "0e08a62d0dc64b81b7bd180fd6652279"
+          }
+        ],
+        [
+          "SN74LS32",
+          1,
+          "",
+          "U11",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "b57fcf8526734121bd9b4fb4200bac52"
+          }
+        ],
+        [
+          "SN74HC574",
+          3,
+          "DIP20",
+          "U12,U14,U16",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "f080186d32194131aa87798f9fef35fa",
+            "uuid": "90b802aa62b4456cb610ad7087c98697"
+          }
+        ],
+        [
+          "SN74LS241",
+          2,
+          "",
+          "U13,U15",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "b5d7497cb87d492f8539fcb39495741f"
+          }
+        ],
+        [
+          "10k",
+          16,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "SN74LS242",
+          5,
+          "",
+          "U17,U18,U21,U22,U38",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "094868f94589402b91f87f09d4da4d08"
+          }
+        ],
+        [
+          "SN74HCT257",
+          4,
+          "",
+          "U19,U20,U23,U24",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "04ebd871a2a14534831b80058a77ee13"
+          }
+        ],
+        [
+          "CD76HC283",
+          2,
+          "",
+          "U25,U26",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "05ee569bf67741a7a19c3dd8be77ba8b"
+          }
+        ],
+        [
+          "SN74HC08",
+          3,
+          "",
+          "U27,U28,U40",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "0e08a62d0dc64b81b7bd180fd6652279"
+          }
+        ],
+        [
+          "SN74LS32",
+          2,
+          "",
+          "U29,U30",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "b57fcf8526734121bd9b4fb4200bac52"
+          }
+        ],
+        [
+          "SN74LS86",
+          2,
+          "",
+          "U31,U32",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "4aaa19017b47403c94b3a8890ac21fe5"
+          }
+        ],
+        [
+          "SN74HC153",
+          4,
+          "",
+          "U33,U34,U35,U36",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "556756ff4db6481bb0ae5c6a13ea408d"
+          }
+        ],
+        [
+          "SN74LS241",
+          1,
+          "",
+          "U37",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "b5d7497cb87d492f8539fcb39495741f"
+          }
+        ],
+        [
+          "SN74HCT02",
+          1,
+          "",
+          "U39",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "f20f4665b2244b15b00d4bd89744a4a8"
+          }
+        ],
+        [
+          "SN74HC574",
+          1,
+          "DIP20",
+          "U41",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "f080186d32194131aa87798f9fef35fa",
+            "uuid": "90b802aa62b4456cb610ad7087c98697"
+          }
+        ],
+        [
+          "SN74HC574",
+          2,
+          "",
+          "U42,U43",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "a6e66c87387846f09e0e96ddefe83270"
+          }
+        ],
+        [
+          "SN74HC08",
+          1,
+          "",
+          "U44",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "0e08a62d0dc64b81b7bd180fd6652279"
+          }
+        ],
+        [
+          "AS6C1008",
+          1,
+          "",
+          "U45",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "58ede73ba0cf44b890d37634f0d7730a"
+          }
+        ],
+        [
+          "SN74HC574",
+          1,
+          "",
+          "U46",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "a6e66c87387846f09e0e96ddefe83270"
+          }
+        ],
+        [
+          "SN74HC08",
+          1,
+          "",
+          "U47",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "0e08a62d0dc64b81b7bd180fd6652279"
+          }
+        ],
+        [
+          "SN74LS293",
+          1,
+          "",
+          "U48",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "73b58d4a8b60403194ff83f082b40d17"
+          }
+        ],
+        [
+          "AT28C64",
+          3,
+          "",
+          "U49,U50,U51",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "19173e4cf05e4df0b2c4a0bbf3752630"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "BTN1",
+          {
+            "BOM_Supplier Part": "C118141",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "K2-1107ST-A4SW-06",
+            "puuid": "daacbe2eec304950b61eef2efe596556",
+            "uuid": "5c1036b53a4146e4841df4ed0a9de8f0"
+          }
+        ],
+        [
+          "1u",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "a7a0e276dadd4f8097422d2afc2e1b9c"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce6e0cc9b0684cd986edbf86d7075dfd",
+            "uuid": "fcaba4851eda4ca19d4326a668633a30"
+          }
+        ],
+        [
+          "NE555",
+          1,
+          "SO08",
+          "U52",
+          {
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "",
+            "BOM_Manufacturer": "",
+            "puuid": "008cfe86cc5d4e94ad9fffdb083aa72a",
+            "uuid": "501be7a0052341dbbe1fef4bc6d02ca4"
+          }
+        ]
+      ],
+      "updateTime": 1680010528,
+      "createTime": 1680010528,
+      "histories": [],
+      "created_at": "2023-03-28 15:35:28",
+      "updated_at": "2023-03-28 15:35:28"
     }
   ],
   "sort": [
@@ -2020,10 +2500,11 @@
     "1f94abb337e04081cf38ef7b7712b956",
     "f507afecaeccc6225d3aadb1d75839c1",
     "ccbdbe93b1f85b51b309307afb0b13c6",
-    "72d4c895ff43e8fa89fe21fbd99d74b8"
+    "72d4c895ff43e8fa89fe21fbd99d74b8",
+    "2a354572eec4a9dfd42513a9aca07456"
   ],
   "title": "8bit",
   "foldername": "8bit",
   "schfilename": "8bit.json",
-  "schfilemtime": 1679483439387
+  "schfilemtime": 1680010528398
 }
