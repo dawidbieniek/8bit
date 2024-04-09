@@ -1,0 +1,39 @@
+{
+  "uuid": "b6a692ad1855b94cc270ca12f9b8a6f1",
+  "path": "Offline/IoReader",
+  "name": "IoReader",
+  "content": "",
+  "created_at": "2024-04-09 12:17:05",
+  "updated_at": "2024-04-09 12:17:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "478c14d7cda9ee6b3c03332b4a8147e2",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1712657843,
+      "createTime": 1712657826,
+      "histories": [],
+      "created_at": "2024-04-09 12:17:06",
+      "updated_at": "2024-04-09 12:17:23"
+    }
+  ],
+  "sort": [],
+  "title": "IoReader",
+  "foldername": "IoReader",
+  "schfilename": "IoReader.json",
+  "schfilemtime": 1712657843102
+}
