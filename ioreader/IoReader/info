@@ -1,20 +1,32 @@
 {
-  "uuid": "b6a692ad1855b94cc270ca12f9b8a6f1",
+  "uuid": "c7180e34379d39f88824b089c90d4274",
   "path": "Offline/IoReader",
   "name": "IoReader",
   "content": "",
-  "created_at": "2024-04-09 12:17:05",
-  "updated_at": "2024-04-09 12:17:23",
+  "created_at": "2024-04-09 15:01:17",
+  "updated_at": "2024-04-14 14:58:57",
   "stick": "",
   "documents": [
     {
-      "uuid": "478c14d7cda9ee6b3c03332b4a8147e2",
+      "uuid": "b6e20a48516b9e15fc4b5ffcf5c2b449",
       "title": "Sheet_1",
       "description": "",
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "components": {},
+      "components": {
+        "a3a7a637246d4c702ca6c4476d40e705": 1,
+        "008757659dcc401f835feef02a2542d9": 1,
+        "ca2ff69652d240218f6b35e64d5d0e58": 2,
+        "bb009484ef804a24ac5d18c54b249586": 42,
+        "b6c80d6a8b654e09ae9baa34085d04c9": 1,
+        "8c8495720f004343a316cbe31d41302b": 2,
+        "5cbe824183374fac8e4c1ae848199ce3": 17,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "d6ffb75b38844ed297cd7d302a87737e": 1,
+        "fca464cd34324b3b9b9103a6d3f58e48": 1,
+        "a7a0e276dadd4f8097422d2afc2e1b9c": 1
+      },
       "BOM": [
         [
           "Value",
@@ -22,18 +34,231 @@
           "Package",
           "Components",
           "CustomPara"
+        ],
+        [
+          "ATMEGA16A-PU",
+          1,
+          "DIP-40_L52.3-W13.9-P2.54-LS15.2-BL",
+          "ATMEGA16",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Manufacturer Part": "ATMEGA16A-PU",
+            "Supplier Part": "C30504",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ATMEGA16A-PU",
+            "puuid": "b92daa500f004b90a2ea0718943f8a91",
+            "uuid": "a3a7a637246d4c702ca6c4476d40e705"
+          }
+        ],
+        [
+          "TAC_SWITCH-PTH-6",
+          1,
+          "TACTILE-PTH-6MM",
+          "BTN_HOLD",
+          {
+            "Contributor": "James Kennewell",
+            "spiceSymbolName": "TAC_SWITCH-PTH-6",
+            "Manufacturer Part": "",
+            "puuid": "d009162ea7b4403aa8f7129525da04b7",
+            "uuid": "b6c80d6a8b654e09ae9baa34085d04c9"
+          }
+        ],
+        [
+          "12mm Tack Switch",
+          1,
+          "12MM TACT SWITCH",
+          "BTN_POWER",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier": "",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "diokmat",
+            "spiceSymbolName": "12mm Tack Switch",
+            "puuid": "8810a90068ec41fcbd899c877af43a04",
+            "uuid": "fca464cd34324b3b9b9103a6d3f58e48"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "CERAMIC-2.54",
+          "C_CLK1,C_CLK2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "109264b34afd4edf9ef8a84307f0b9cb",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100u",
+          1,
+          "100UF CAPACITOR, 2.54MM PIN CAPACITOR",
+          "C_DECOUPLE1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_Tan_SMD_A_US",
+            "Manufacturer Part": "",
+            "Package Display": "No",
+            "puuid": "f9bd2908101040f4a4c6bb221ffaa4eb",
+            "uuid": "a7a0e276dadd4f8097422d2afc2e1b9c"
+          }
+        ],
+        [
+          "7-SEGMENT-4DIGIT-20MM-WHITE",
+          1,
+          "7-SEGMENT-4DIGIT-20MM",
+          "DISP1",
+          {
+            "Contributor": "Turky Samy",
+            "spiceSymbolName": "7-SEGMENT-4DIGIT-20MM-WHITE",
+            "Manufacturer Part": "",
+            "puuid": "a84f6de9464a4857affca8b8bc9819ed",
+            "uuid": "008757659dcc401f835feef02a2542d9"
+          }
+        ],
+        [
+          "LED-0603_R",
+          17,
+          "LED TH",
+          "LED_A1,LED_A2,LED_A3,LED_A4,LED_A5,LED_A6,LED_A7,LED_A8,LED_B1,LED_B2,LED_B3,LED_B4,LED_B5,LED_B6,LED_B7,LED_B8,LED_HOLD",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Supplier Part": "C72044",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_01",
+            "spiceSymbolName": "LED-0603_R",
+            "puuid": "ccabe817462c4f2683c5cb576c34fc3f",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "1k",
+          25,
+          "CERAMIC-5.08",
+          "R_A,R_A1,R_A2,R_A3,R_A4,R_A5,R_A6,R_A7,R_A8,R_B,R_B1,R_B2,R_B3,R_B4,R_B5,R_B6,R_B7,R_B8,R_C,R_D,R_DP,R_E,R_F,R_G,R_HOLD",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "ecbf54b8ea494fc69e8d953b6b15aa19",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          17,
+          "CERAMIC-5.08",
+          "R_A1_GND,R_A2_GND,R_A3_GND,R_A4_GND,R_A5_GND,R_A6_GND,R_A7_GND,R_A8_GND,R_B1_GND,R_B2_GND,R_B3_GND,R_B4_GND,R_B5_GND,R_B6_GND,R_B7_GND,R_B8_GND,R_RST_PULLUP",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "ecbf54b8ea494fc69e8d953b6b15aa19",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "SW_DIP-8",
+          2,
+          "DIPSWITCH-08",
+          "SW_A1,SW_B1",
+          {
+            "description": "DIP Switch 8 Position",
+            "Contributor": "SparkFun",
+            "spiceSymbolName": "SW_DIP-8",
+            "Manufacturer Part": "",
+            "puuid": "1fe7ae9e45334e86a649fd502422be5b",
+            "uuid": "8c8495720f004343a316cbe31d41302b"
+          }
+        ],
+        [
+          "ZL262-8SG",
+          2,
+          "HDR-F-2.54_1X8",
+          "S_A,S_B",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "AndrzejGeciow",
+            "spiceSymbolName": "ZL262-8SG",
+            "puuid": "76a028e0363649388f2a2e340a157455",
+            "uuid": "ca2ff69652d240218f6b35e64d5d0e58"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "CRISTAL 16MHZ",
+          "X1",
+          {
+            "Supplier Part": "2819276",
+            "Supplier": "Element14",
+            "Manufacturer": "TXC",
+            "Manufacturer Part": "9B-48.000MAAE-B",
+            "Contributor": "DFerrari",
+            "spiceSymbolName": "CRISTAL 16MHZ",
+            "puuid": "1ed505f7aea7448fa13f3244b51e65e2",
+            "uuid": "d6ffb75b38844ed297cd7d302a87737e"
+          }
         ]
       ],
-      "updateTime": 1712657843,
-      "createTime": 1712657826,
+      "updateTime": 1713099537,
+      "createTime": 1712667677,
       "histories": [],
-      "created_at": "2024-04-09 12:17:06",
-      "updated_at": "2024-04-09 12:17:23"
+      "created_at": "2024-04-09 15:01:17",
+      "updated_at": "2024-04-14 14:58:57"
+    },
+    {
+      "uuid": "f29c5cdfe9d342658db66d3fb5d6d0d6",
+      "puuid": "c7180e34379d39f88824b089c90d4274",
+      "title": "PCB_IoReader",
+      "filename": "PCB_IoReader.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f9bd2908101040f4a4c6bb221ffaa4eb": 1,
+        "ecbf54b8ea494fc69e8d953b6b15aa19": 42,
+        "ccabe817462c4f2683c5cb576c34fc3f": 17,
+        "109264b34afd4edf9ef8a84307f0b9cb": 2,
+        "a84f6de9464a4857affca8b8bc9819ed": 1,
+        "1ed505f7aea7448fa13f3244b51e65e2": 1,
+        "b92daa500f004b90a2ea0718943f8a91": 1,
+        "d009162ea7b4403aa8f7129525da04b7": 1,
+        "8810a90068ec41fcbd899c877af43a04": 1,
+        "76a028e0363649388f2a2e340a157455": 2,
+        "1fe7ae9e45334e86a649fd502422be5b": 2
+      },
+      "BOM": [],
+      "updateTime": 1713099383,
+      "createTime": 1712668630,
+      "histories": [],
+      "created_at": "2024-04-09 15:17:10",
+      "updated_at": "2024-04-14 14:56:23"
     }
   ],
   "sort": [],
   "title": "IoReader",
   "foldername": "IoReader",
   "schfilename": "IoReader.json",
-  "schfilemtime": 1712657843102
+  "schfilemtime": 1713099537347
 }
